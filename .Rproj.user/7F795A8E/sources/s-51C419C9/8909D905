@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587384731375.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "311612423",
+    "id" : "8909D905",
+    "lastKnownWriteTime" : 1587384827,
+    "last_content_update" : 1587384827755,
+    "path" : "E:/SEIP BiTM/TestRproject/test.R",
+    "project_path" : "test.R",
+    "properties" : {
+        "cursorPosition" : "2,36",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
